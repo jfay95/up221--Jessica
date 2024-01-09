@@ -1,1 +1,2 @@
 # up221--Jessica
+## I am a current PhD student in CHS at Fielding School of Public Health. I work as an Epidemiologist and my primary research interests pertain to food policy and chronic health outcomes. I hope to learn how to create maps to help explore public health problems and disease occurence by place. I am also looking forward to learning Python. One project idea I have is exploring density of fast food restaurants in LA by neighborhood along with obesity and CVD rates.
